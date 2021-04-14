@@ -1,2 +1,2 @@
 # mail-spam-filter
-An email spam filter using Apache Spark’s ML library
+- a binary classifier to mark emails as spam or not spam
